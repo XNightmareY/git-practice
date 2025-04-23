@@ -1,2 +1,8 @@
 Line 1: Initial content
+<<<<<<< HEAD
 Line 5: Пяятая строчка
+=======
+Line 2: Second line
+Line 3: Третья строка
+Line 4: Четвертая строка
+>>>>>>> 377c5e368495b90139d95ec2a6e077d288826303
